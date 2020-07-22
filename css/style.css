@@ -1,0 +1,17 @@
+.box{height: 100px;
+	margin-bottom: 5px;
+	background-color: #3b714f;
+	text-align: center;
+	border-radius: 3px;
+	
+ }
+h1{margin:0 auto;
+	width: 35%;
+	font-size: 30px;
+	background-color: #f8e715;
+	color:red;
+	text-align: center;
+	border:3px solid tomato;
+	border-radius: 5px;}
+
+
